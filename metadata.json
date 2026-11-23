@@ -1,0 +1,6 @@
+{
+  "name": "CloudOptix — Cloud Usage & Cost Optimization System",
+  "description": "Full-stack cloud usage and cost optimization platform featuring automated CSV schema detection, data cleaning, numerical telemetry analysis, ML forecasting interface, SQLite persistence, and actionable rightsizing recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
